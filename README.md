@@ -1,3 +1,3 @@
 # Data-Preparation
-In this jupyter notebook covers:
-- apply different techniques to data preprocessing in Python
+This jupyter notebook covers:
+- different application techniques to data preprocessing in Python
